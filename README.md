@@ -46,3 +46,5 @@ python -m Pyro4.naming
 python server.py
 python client.py
 ```
+
+É possível criar quantos clientes você preferir
